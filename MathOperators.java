@@ -19,7 +19,7 @@ public final class MathOperators {
     *
     * @param args Command line arguments.
     */
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         // Does addition and outputs the result to the console.
         System.out.println("2 + 17 = " + (2 + 17));
 
