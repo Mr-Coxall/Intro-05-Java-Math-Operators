@@ -18,7 +18,7 @@ public final class MathOperators {
    */
   public static void main(final String[] args) {
     // Does addition and outputs the result to the console.
-    System.out.println("2 + 17 = " + (2 + 17));
+    System.out.println("2 + 40 = " + (2 + 40));
 
     // Does subtraction and outputs the result to the console.
     System.out.println("6 - 9 = " + (6 - 9));
