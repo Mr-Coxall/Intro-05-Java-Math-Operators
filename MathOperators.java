@@ -5,16 +5,16 @@
  * @version 1.0
  * @since 2024-02-12
  */
-public final class MathOperators {
+final class MathOperators {
   /**
    * Number constants, 2.
    */
-  public static final int NUMBER_TWO = 2;
+  static final int NUMBER_TWO = 2;
 
   /**
    * Number constants, 40.
    */
-  public static final int NUMBER_FORTY = 40;
+  static final int NUMBER_FORTY = 40;
 
   /** Private constructor to prevent instantiation of this utility class. */
   private MathOperators() {
