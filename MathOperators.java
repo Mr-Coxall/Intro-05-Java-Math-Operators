@@ -1,4 +1,4 @@
-/**
+/*
 * Various ways to use math operators in Java.
 *
 * @author Kevin Csiffary
