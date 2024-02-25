@@ -7,11 +7,15 @@
  */
 public final class MathOperators {
   /**
-   * Number constants.
+   * Number constants, 2.
   */
   public static final int NUMBER_TWO = 2;
+
+  /**
+   * Number constants, 40.
+  */
   public static final int NUMBER_FORTY = 40;
-  
+
   /** Private constructor to prevent instantiation of this utility class. */
   private MathOperators() {
     // Prevents instantiation.
